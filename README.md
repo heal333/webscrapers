@@ -1,11 +1,11 @@
-web scraper to get the recent year question papers from upsc official site
+##web scraper to get all the recent year question papers hosted on upsc official site
 
 
-dependency:
+**dependency:**
 	install beautifulsoup4 and requests module first
-	'''pip install beautifulsoup4'''
-	'''pip install requests''
+	```pip install beautifulsoup4```
+	```pip install requests```
 
 run the script from your console
 
-use "ctrl + left click" on the links to open any questions pdf 
+use "ctrl + left click" on Sthe links to open any questions pdf 
